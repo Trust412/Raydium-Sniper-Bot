@@ -83,8 +83,8 @@ Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, 
 ### 🍏 Installation for macOS
 1. Install Git:
    - [Git for macOS](https://git-scm.com/download/mac)
-2. Install Python:
-   - [Python 3.12.1 for macOS](https://www.python.org/ftp/python/3.12.1/python-3.12.1-macosx10.9.pkg)
+2. Install Python 3.7.9 version:
+   - [Python 3.7.9 for MacOs](https://www.python.org/ftp/python/3.7.9/python-3.7.9-macosx10.9.pkg)
 3. Clone and build the bot (Terminal):
    ```bash
    git clone https://github.com/SolTradeBot/Raydium-Sniper-Bot.git
@@ -97,7 +97,7 @@ Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, 
 
 ## 🛠 System Requirements
 
-- Python 3.8 or higher
+- Python 3.7.9
 - Stable internet connection
 
 ---
